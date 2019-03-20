@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "402900448712",
+    "firebase_url": "https://theblocker-7c367.firebaseio.com",
+    "project_id": "theblocker-7c367",
+    "storage_bucket": "theblocker-7c367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402900448712:android:1857eedb45ace442",
+        "android_client_info": {
+          "package_name": "com.example.hirushka.theblocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402900448712-hkns4ohpnr1emin9ud77i8rmgu9k6arm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hirushka.theblocker",
+            "certificate_hash": "940beb273a825f0d448901f3909c3cd34610cbe5"
+          }
+        },
+        {
+          "client_id": "402900448712-2il9fd5unm67o1a3ih5co1tck9iet4df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKbI5EiZpAAeZ6voh00Q26JFutZAqPLMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402900448712-2il9fd5unm67o1a3ih5co1tck9iet4df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
